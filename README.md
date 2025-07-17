@@ -8,6 +8,7 @@ Create an end-to-end streaming solution powered by AWS capable to hosting, capti
 - Serve content through Cloudfront ❌
 - Integrate MediaLive and MediaPackage into the workflow ❌
 - Provide Automated Closed Captions ❌
+- Create Cloudformation Template ❌
 
 
 
