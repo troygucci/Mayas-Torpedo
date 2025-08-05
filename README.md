@@ -14,3 +14,8 @@ Create an end-to-end streaming solution powered by AWS capable to hosting, capti
 
 # Version 0.1 - Working Webiste With Looping Video Hosted on S3
 <img width="1146" height="462" alt="Image" src="https://github.com/user-attachments/assets/f78cc49f-5cd6-426c-8b8f-5fd11467143b" />
+
+# Version 0.2 - Working Webiste With Looping Video Served Using Cloudfront Distribution
+<img width="1056" height="372" alt="Image" src="https://github.com/user-attachments/assets/bb495a89-1992-4792-9080-afccbffeaf4b" />
+
+-This portion took longer than I anticipated, I got hung up on the permissions on S3.
