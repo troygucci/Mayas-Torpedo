@@ -2,7 +2,7 @@
 An ongoing project exploring the power of video streaming through the cloud.
 
 # Project Goals
-Create an end-to-end streaming solution powered by AWS capable to hosting, captioning, and audio-dubbing in multiple language automatically.
+Create an end-to-end streaming solution powered by AWS capable to hosting, captioning, and audio-translation in multiple languages automatically.
 - host website through Route 53 ✅
 - Host website code and content on S3 ✅
 - Serve content through Cloudfront ❌
